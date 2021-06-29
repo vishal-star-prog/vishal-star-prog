@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vishal-star-prog
+- 👋 Hi, I’m Vishal
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Android Development using Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
